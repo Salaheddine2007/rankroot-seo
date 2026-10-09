@@ -5,7 +5,7 @@ OUT = pathlib.Path(__file__).parent
 
 # ---------- SETTINGS (must match your Payoneer application) ----------
 BRAND = "RankRoot"
-COUNTRY = "Morocco"
+COUNTRY = "United States"
 EMAIL = "contact@rankroot.store"
 WHATSAPP = "32497063717"          # international format, digits only, e.g. 212600000000
 WHATSAPP_DISPLAY = "+32 497 06 37 17"
